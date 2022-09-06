@@ -1,0 +1,2 @@
+#!/bin/bash
+if "echo $USER" echo 'hello user'
